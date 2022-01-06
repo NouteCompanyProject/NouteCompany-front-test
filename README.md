@@ -38,7 +38,6 @@
 > * 로고의 이미지는 https://cdn.imweb.me/thumbnail/20220104/316394e1ccbd7.png 호출 하시면 됩니다!
 > 
 > * 상품리스트 이미지 https://noutecompany.com/design1.png
-> * <a href="https://noutecompany.com/design1.png" download>다운로드</a>
 > * 상품 상세보기 이미지 https://noutecompany.com/design2.png
 
 
