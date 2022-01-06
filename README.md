@@ -4,8 +4,10 @@
 
 ## **Tip : "정답"은 없습니다! 유사한 형태로 UI/UX를 만들어 주세요! :) <br> <br> 사용하지 않는 코드에 관해서는 주석 처리를 반드시 해주세요!**
 
-
-<img src="https://user-images.githubusercontent.com/89061387/148358662-b255d722-082a-4cd7-a983-95e625bdb98e.png" width="400" height="700"><img src="https://user-images.githubusercontent.com/89061387/148359117-0cd5495c-21ce-4151-9421-012a6cd33b64.png" width="400" height="900">
+<div style="display:flex; justify-content:space-between">
+    <img src="https://user-images.githubusercontent.com/89061387/148358662-b255d722-082a-4cd7-a983-95e625bdb98e.png" width="400" height="700">
+    <img src="https://user-images.githubusercontent.com/89061387/148359117-0cd5495c-21ce-4151-9421-012a6cd33b64.png" width="400" height="900">
+</div>
 
 
 
