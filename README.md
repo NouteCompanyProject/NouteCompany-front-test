@@ -36,7 +36,9 @@
 
 
 > * 로고의 이미지는 https://cdn.imweb.me/thumbnail/20220104/316394e1ccbd7.png 호출 하시면 됩니다!
+> 
 > * 상품리스트 이미지 https://user-images.githubusercontent.com/89061387/148358662-b255d722-082a-4cd7-a983-95e625bdb98e.png
+> * 상품리스트 이미지 <a href="https://user-images.githubusercontent.com/89061387/148358662-b255d722-082a-4cd7-a983-95e625bdb98e.png" download>다운로드</a>
 > * 상품 상세보기 이미지 https://user-images.githubusercontent.com/89061387/148359117-0cd5495c-21ce-4151-9421-012a6cd33b64.png
 
 
