@@ -31,7 +31,7 @@
 > * type:1 -> 스티커/ACC ,  type:2 -> 노트/노트패드 , type:3 -> 다이어리/플래너 , type:4 -> 브러쉬
 
 
-> * https://test/noutecompany.com/product/detail/:id 으로 상품별 상세페이지를 구성해주세요.
+> * https://test.noutecompany.com/product/detail/:id 으로 상품별 상세페이지를 구성해주세요.
 > * id는 리스트 호출시 객체에 담겨져 있습니다!
 
 
